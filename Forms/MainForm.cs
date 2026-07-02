@@ -23,6 +23,10 @@ namespace JpgVerifyTool.Forms
         {
             InitializeComponent();
 
+            // 使用项目自带的图标（已通过项目属性嵌入）
+            this.Icon = System.Drawing.Icon.ExtractAssociatedIcon(
+                System.Reflection.Assembly.GetExecutingAssembly().Location);
+
             // 从统一配置类读取所有配置
             _appName = AppConfig.AppName;
             _appVersion = AppConfig.AppVersion;
