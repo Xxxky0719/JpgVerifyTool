@@ -173,7 +173,7 @@ private const bool UseEmbeddedConfig = true;
 
 ## License
 
-Internal use only. © 2025 Align Technology.
+Internal use only. © Michael Xiang
 ```
 
 ---
