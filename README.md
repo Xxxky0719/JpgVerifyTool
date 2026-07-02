@@ -1,6 +1,3 @@
-没有关联本地文件夹，直接把内容贴给你，在项目根目录新建 `README.md` 文件，复制以下内容：
-
-```markdown
 # JpgVerifyTool - JPG 文件校验工具
 
 A lightweight WinForms tool for verifying JPG files against a CSV record list. Built for production line use.
